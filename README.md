@@ -1,1 +1,1 @@
-My  tg.bot
+My @islombekcarcollection_bot tg.bot
